@@ -1,6 +1,6 @@
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=
+APP_KEY=base64:Tgz5lxVHI/RWmHrhma7loTLwf/6FAV3Kh+EzlGa38bg=
 APP_DEBUG=true
 APP_URL=http://localhost
 
@@ -27,7 +27,7 @@ DB_DATABASE=grade_recording
 DB_USERNAME=root
 DB_PASSWORD=
 
-SESSION_DRIVER=database
+SESSION_DRIVER=file
 SESSION_LIFETIME=120
 SESSION_ENCRYPT=false
 SESSION_PATH=/
